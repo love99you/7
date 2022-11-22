@@ -41,8 +41,6 @@ audio,
     -webkit-animation: love-xf 1.2s alternate ease-in-out;
     animation: love-xf 1.2s alternate ease-in-out;
     user-select: none;
-    -webkit-text-shadow: 0 0 8px #fff;
-    text-shadow: 0 0 8px #fff;
 }
 
 #lovexf {
